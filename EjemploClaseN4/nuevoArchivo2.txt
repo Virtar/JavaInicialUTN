@@ -1,0 +1,3 @@
+Nuevo archivo
+ en la carpeta
+  de manejoArchivos
