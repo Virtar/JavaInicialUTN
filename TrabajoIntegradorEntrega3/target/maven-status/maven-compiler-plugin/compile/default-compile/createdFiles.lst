@@ -1,0 +1,9 @@
+Domain\Partido.class
+Domain\Fase.class
+Domain\Base.class
+Programa\Puntaje.class
+Domain\Ronda.class
+Domain\Participante.class
+Domain\Pronostico.class
+Enum\Resultado.class
+Domain\Equipo.class
